@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAhfXs6Z4SY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thene\\RiderProjects\\notifTest1\\notifTest1\\notifTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thene\\.nuget\\packages\\jsonsubtypes\\1.8.0\\jsonsubtypes.1.8.0.nupkg.sha512",
+    "C:\\Users\\thene\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\thene\\.nuget\\packages\\onesignalapi\\2.1.0\\onesignalapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\thene\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\thene\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512",
+    "C:\\Users\\thene\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
